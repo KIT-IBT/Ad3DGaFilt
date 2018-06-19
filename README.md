@@ -25,3 +25,13 @@ Data:
 --- Contact ---
 
 Please contact us by e-mail: publications@ibt.kit.edu
+
+--- Publication ---
+
+The filter method is described in detail in the following article: 
+An adaptive spatio-temporal Gaussian filter for processing cardiac optical mapping data, S. Pollnow, N.Pilia, G.Schwaderlapp, A. Loewe, O. Dössel, G.Lenis
+https://doi.org/10.1016/j.compbiomed.2018.05.029
+
+Please cite this article when using this code.
+
+
