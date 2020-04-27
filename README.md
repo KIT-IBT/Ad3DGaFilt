@@ -2,13 +2,13 @@
 
 Matlab Package for an Adaptive 3D Gaussian Filter (Ad3DGaFilt)
 
---- General Information ---
+## General Information
 
 The Ad3DGaFilt is used for processing optical mapping data with low signal-to-noise ratios. All files have to be copied in one folder. The Ad3DGaFilt is called from the main script Ad3DGaFilt_Testscript.m.
 
 This code was originally created and tested on a mac platform (64-bit machine) with Matlab version R2017b.
 
---- Content ---
+## Content
 
 Matlab Functions:
 - Ad3DGaFilt_Testscript.m: Main script for applying the Ad3DGaFilt
@@ -22,11 +22,11 @@ Data:
 - data_noisy_baseline1.mat: Synthetic noisy data with baseline (part 1)
 - data_noisy_baseline2.mat: Synthetic noisy data with baseline (part 2)
  
---- Contact ---
+## Contact
 
 Please contact us by e-mail: publications@ibt.kit.edu
 
---- Publication ---
+## Reference
 
 The filter method is described in detail in the following article: 
 S. Pollnow, N.Pilia, G.Schwaderlapp, A. Loewe, O. Dössel, G.Lenis, An adaptive spatio-temporal Gaussian filter for processing cardiac optical mapping data, Computers in Biology and Medicine (2018), https://doi.org/10.1016/j.compbiomed.2018.05.029. 
